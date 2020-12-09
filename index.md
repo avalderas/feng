@@ -14,5 +14,9 @@ print("...en contruccion")
 
 * * *
 ```
-<center> creado por Feng (Alejandro Valderas Fuentes) año 2020 </center>
+.right{
+     text-align: right;
+}
+
+creado por Feng (Alejandro Valderas Fuentes) año 2020 {: .right}
 ```
