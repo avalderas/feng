@@ -1,8 +1,4 @@
 
----
-layout: default
----
-
 # Benvenido al portafolio de Feng 
 
 * * *
