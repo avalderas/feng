@@ -18,5 +18,5 @@ print("...en contruccion")
 
 * * *
 ```
-creado por Feng (Alejandro Valderas Fuentes) 2020
+<center> creado por Feng (Alejandro Valderas Fuentes) año 2020 </center>
 ```
